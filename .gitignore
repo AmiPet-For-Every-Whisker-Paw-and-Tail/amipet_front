@@ -1,0 +1,43 @@
+
+# Arquivos e diretórios gerados pelo Gradle
+.gradle/
+build/
+*.iml
+
+# Arquivos locais do Android Studio
+.idea/
+*.ipr
+*.iws
+local.properties
+
+# Arquivos de build e saída
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Arquivos temporários e de cache
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Diretórios de dependências
+.gradle/
+dependencies/
+
+# Arquivos de configuração do ambiente
+*.keystore
+*.jks
+
+# Logs e arquivos de depuração
+*.log
+
+# Diretórios de saída de relatórios (lint, testes, etc.)
+/app/build/reports/
+/app/build/intermediates/
+
+# Outros arquivos desnecessários
+*.bak
+*.tmp
+Thumbs.db

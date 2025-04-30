@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lime_green_start">#A8E063</color>
+    <color name="lime_green_end">#56AB2F</color>
+    <color name="teal">#008080</color>
+    <color name="yellow">#FFB300</color>
+    <color name="off_white">#F8F9FA</color>
+    <color name="black">#212121</color>
+    <color name="gray">#757575</color>
+    <color name="white">#FFFFFF</color>
+</resources>
