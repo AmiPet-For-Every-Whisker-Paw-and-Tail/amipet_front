@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AmiPet</string>
+    <string name="home_screen_title">Pets para Adoção</string>
+    <string name="profile_screen_title">Meu Perfil</string>
+    <string name="matches_screen_title">Meus Matches</string>
+    <string name="empty_pets_title">Nenhum pet disponível</string>
+    <string name="empty_pets_description">Não há pets disponíveis para adoção no momento. Tente novamente mais tarde.</string>
+    <string name="empty_matches_title">Nenhum match encontrado</string>
+    <string name="empty_matches_description">Você ainda não tem matches. Continue explorando para encontrar seu pet ideal!</string>
+    <string name="try_again">Tentar novamente</string>
+    <string name="login">Entrar</string>
+    <string name="register">Cadastrar</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="name">Nome</string>
+    <string name="phone">Telefone</string>
+    <string name="address">Endereço</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="logout">Sair</string>
+    <string name="pet_details">Detalhes do Pet</string>
+    <string name="pet_age">Idade: %1$s</string>
+    <string name="pet_gender">Gênero: %1$s</string>
+    <string name="pet_size">Porte: %1$s</string>
+    <string name="pet_breed">Raça: %1$s</string>
+    <string name="pet_description">Descrição</string>
+    <string name="contact_owner">Contatar Responsável</string>
+    <string name="send_message">Enviar Mensagem</string>
+    <string name="login_screen_title">Login</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Senha</string>
+    <string name="link_forgot_password">Esqueceu a senha?</string>
+    <string name="link_register">Cadastrar</string>
+    <string name="action_login">Entrar</string>
+</resources>

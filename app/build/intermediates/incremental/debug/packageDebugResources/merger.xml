@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\main\res"><file name="ic_person" path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\main\res\drawable\ic_person.xml" qualifiers="" type="drawable"/><file name="ic_pets" path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\main\res\drawable\ic_pets.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\main\res\mipmap\ic_launcher.png" qualifiers="" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\main\res\mipmap\ic_launcher_round.png" qualifiers="" type="mipmap"/><file path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\main\res\values\colors.xml" qualifiers=""><color name="primary">#E2F986</color><color name="primary_variant">#388E3C</color><color name="secondary">#8BC34A</color><color name="secondary_variant">#689F38</color><color name="background_light">#FFFFFF</color><color name="background_dark">#121212</color><color name="surface_light">#FFFFFF</color><color name="surface_dark">#1E1E1E</color><color name="error">#F44336</color><color name="on_primary">#FFFFFF</color><color name="on_secondary">#000000</color><color name="on_background_light">#000000</color><color name="on_background_dark">#FFFFFF</color><color name="on_surface_light">#000000</color><color name="on_surface_dark">#FFFFFF</color><color name="on_error">#FFFFFF</color><color name="card_border">#E0E0E0</color><color name="card_border_dark">#3A3A3A</color><color name="like_action">#E91E63</color><color name="dislike_action">#9E9E9E</color><color name="my_light_primary">#6200EE</color><color name="my_light_primary_variant">#3700B3</color><color name="my_light_on_primary">#FFFFFF</color><color name="my_light_secondary">#03DAC6</color><color name="my_light_secondary_variant">#018786</color><color name="my_light_on_secondary">#000000</color></file><file path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\main\res\values\drawables.xml" qualifiers=""><drawable name="ic_empty_state">@drawable/ic_pets</drawable><drawable name="ic_profile_placeholder">@drawable/ic_person</drawable></file><file path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">AmiPet</string><string name="home_screen_title">Pets para Adoção</string><string name="profile_screen_title">Meu Perfil</string><string name="matches_screen_title">Meus Matches</string><string name="empty_pets_title">Nenhum pet disponível</string><string name="empty_pets_description">Não há pets disponíveis para adoção no momento. Tente novamente mais tarde.</string><string name="empty_matches_title">Nenhum match encontrado</string><string name="empty_matches_description">Você ainda não tem matches. Continue explorando para encontrar seu pet ideal!</string><string name="try_again">Tentar novamente</string><string name="login">Entrar</string><string name="register">Cadastrar</string><string name="email">Email</string><string name="password">Senha</string><string name="name">Nome</string><string name="phone">Telefone</string><string name="address">Endereço</string><string name="save">Salvar</string><string name="cancel">Cancelar</string><string name="logout">Sair</string><string name="pet_details">Detalhes do Pet</string><string name="pet_age">Idade: %1$s</string><string name="pet_gender">Gênero: %1$s</string><string name="pet_size">Porte: %1$s</string><string name="pet_breed">Raça: %1$s</string><string name="pet_description">Descrição</string><string name="contact_owner">Contatar Responsável</string><string name="send_message">Enviar Mensagem</string><string name="login_screen_title">Login</string><string name="label_password">Senha</string><string name="link_register">Cadastrar</string><string name="label_email">Email</string><string name="link_forgot_password">Esqueceu a senha?</string><string name="action_login">Entrar</string></file><file path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.AmiPet.Dark" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+
+        
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_variant</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+
+        
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/background_dark</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style></file><file path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\main\res\values\values.xml" qualifiers=""><style name="Theme.AmiPet" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_variant</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/background_light</item>
+    </style><style name="Theme.AmiPet.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/primary</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.AmiPet</item>
+    </style></file><file path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.AmiPet" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_variant</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+        
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/background_dark</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style></file><file path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\main\res\values-v27\themes.xml" qualifiers="v27"><style name="Theme.AmiPet" parent="Theme.Material3.DayNight.NoActionBar">
+                
+                <item name="colorPrimary">@color/primary</item>
+                <item name="colorPrimaryVariant">@color/primary_variant</item>
+                <item name="colorOnPrimary">@color/on_primary</item>
+                
+                <item name="colorSecondary">@color/secondary</item>
+                <item name="colorSecondaryVariant">@color/secondary_variant</item>
+                <item name="colorOnSecondary">@color/on_secondary</item>
+                
+                <item name="android:statusBarColor">@color/primary</item>
+                <item name="android:navigationBarColor">@color/background_light</item>
+                <item name="android:windowLightNavigationBar">true</item>
+        </style></file><file name="backup_rules" path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Flavsc\Desktop\amipet_novo\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Flavsc\Desktop\amipet_novo\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Flavsc\Desktop\amipet_novo\app\build\generated\res\resValues\debug"/></dataSet><mergedItems/></merger>

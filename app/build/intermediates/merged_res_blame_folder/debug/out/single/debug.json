@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.amipet.app-merged_res-69:/drawable_ic_pets.xml.flat",
+        "source": "com.amipet.app-main-71:/drawable/ic_pets.xml"
+    },
+    {
+        "merged": "com.amipet.app-merged_res-69:/mipmap_ic_launcher_round.png.flat",
+        "source": "com.amipet.app-main-71:/mipmap/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.amipet.app-merged_res-69:/drawable_ic_person.xml.flat",
+        "source": "com.amipet.app-main-71:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.amipet.app-merged_res-69:/mipmap_ic_launcher.png.flat",
+        "source": "com.amipet.app-main-71:/mipmap/ic_launcher.png"
+    },
+    {
+        "merged": "com.amipet.app-merged_res-69:/xml_backup_rules.xml.flat",
+        "source": "com.amipet.app-main-71:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.amipet.app-merged_res-69:/xml_data_extraction_rules.xml.flat",
+        "source": "com.amipet.app-main-71:/xml/data_extraction_rules.xml"
+    }
+]
